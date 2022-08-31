@@ -1,2 +1,2 @@
 # Rockbuster-SQL
-Movie rental project
+ Rockbuster Stealth Data Analysis Project
