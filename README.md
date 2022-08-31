@@ -1,11 +1,13 @@
 # Rockbuster-SQL
- Rockbuster Stealth - Data Analysis Project for a movie rental company.
- ### Key questions and objectives
-The Rockbuster Stealth Management Board has asked a series of business questions and
-they expect data-driven answers that they can use for their 2020 company strategy. Here are
-the main questions they’d like to answer:
-* Which movies contributed the most/least to revenue gain?
-* What was the average rental duration for all videos?
-* Which countries are Rockbuster customers based in?
-* Where are customers with a high lifetime value based?
-* Do sales figures vary between geographic regions?
+  Data Analysis project conducted in SQL.
+ 
+ ### Objective
+  Rockbuster Stealth LLC is a movie rental company that used to have stores around the world.  It is now looking to diversify and launch an online video rental service in order to stay competitive. 
+ 
+ The objective of the project was to answer business questions in order to drive the launch strategy of a new online rental service.
+ 
+ ### Data
+ A relational database made up of 17 tables contatining data on film rentals, customers, actors, payments and more.
+ [Full Data Set] (http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+
+View the project viz's here: [Tableau Viz](https://public.tableau.com/app/profile/ruth5282/viz/RockbusterVizs/RockbusterStealthVizs).
