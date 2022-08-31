@@ -1,5 +1,5 @@
-Subquery
-Highest Value customers in top 5 countries	
+A SQL Subquery
+Used to find the highest value customers in top 5 countries	
 
 SELECT A.customer_id,	
 	A.first_name,
