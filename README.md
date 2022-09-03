@@ -8,6 +8,6 @@
  
  ### Data
  A relational database made up of 17 tables contatining data on film rentals, customers, actors, payments and more.
- [Full Data Set] (http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+ [Full Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 View the project viz's here: [Tableau Viz](https://public.tableau.com/app/profile/ruth5282/viz/RockbusterVizs/RockbusterStealthVizs).
