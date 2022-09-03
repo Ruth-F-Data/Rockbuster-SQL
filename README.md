@@ -1,5 +1,5 @@
 # Rockbuster-SQL
-  Data Analysis project conducted in SQL.
+  Data Analysis project conducted in SQL for Career Foundry Data Analytics Program.
  
  ### Objective
   Rockbuster Stealth LLC is a movie rental company that used to have stores around the world.  It is now looking to diversify and launch an online video rental service in order to stay competitive. 
